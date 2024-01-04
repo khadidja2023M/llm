@@ -1,0 +1,1 @@
+Code Evaluator using LLM is a sophisticated tool that leverages Large Language Models for analyzing and assessing code quality. It's designed to automate code review processes, providing insights into code efficiency, style, and potential improvements
